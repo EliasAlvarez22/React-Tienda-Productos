@@ -1,0 +1,17 @@
+
+:root{
+    --colorMain: #6526d1
+  }
+  
+
+.card > img{
+    width: 150px;
+}
+
+.card{
+    margin: 0 2em 2em 0;
+}
+
+.button-comprar{
+    background-color: var(--colorMain);
+}

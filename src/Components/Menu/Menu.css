@@ -1,0 +1,43 @@
+.marca{
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.navegacion {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+
+    .navegacion li{
+        list-style: none;
+    }
+}
+
+.navegacion li{
+    padding-bottom: 30px;
+}
+
+.link{ 
+    font-weight:500;
+    font-size: 20px;
+    padding-bottom: 20px;
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+
+ul{
+    margin-left: 0;
+    padding: 0;
+}
+
+#icon_carrito{
+    color: white;
+    font-size: 30px;
+    padding-right: 25px;
+}
+    
+  
